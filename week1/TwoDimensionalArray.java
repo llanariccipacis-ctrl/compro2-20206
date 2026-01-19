@@ -26,6 +26,7 @@ public class TwoDimensionalArray {
                 System.out.printf("%-9s ", clothColors[i][j]);
             }
             System.out.println();
+
         }
 
        

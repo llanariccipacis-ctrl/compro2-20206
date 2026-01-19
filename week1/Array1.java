@@ -31,6 +31,11 @@ public class Array1 {
             i++;
         }
 
+        for (int k = 0; i < numbers.length; k++) {
+            if ()
+
+        }
+
         
     }
 
